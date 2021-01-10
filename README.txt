@@ -1,0 +1,1 @@
+SDL_GetTicks - Nhận số mili giây kể từ khi khởi tạo thư viện SDL.
